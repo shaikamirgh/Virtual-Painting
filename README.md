@@ -1,5 +1,6 @@
 # Virtual-Painting
 Virtually Paint on screen tools-free using Camera.
+##### Specially on Jetson Nano, also runs on Desktops
 
 ## Getting Started
 
