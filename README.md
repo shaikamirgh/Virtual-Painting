@@ -1,7 +1,7 @@
 # Virtual-Painting
 Virtually Paint on screen tools-free using Camera.
 ##### Specially on Jetson Nano, also runs on Desktops
-![Demo](https://github.com/shaikamirgh/Virtual-Painting/blob/main/outputs/JetsonNano.png)
+![Demo](https://github.com/shaikamirgh/Virtual-Painting/blob/main/outputs/VirtualPaintingGIF.gif)
 
 ## Getting Started
 
